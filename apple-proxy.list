@@ -2,4 +2,4 @@ host, init.push.apple.com, proxy
 host, appleid.apple.com, proxy
 host, gsa.apple.com, proxy
 host, statici.icloud.com, proxy
-host-keyword, *-buy, proxy
+host, *-buy.itunes.apple.com, proxy
