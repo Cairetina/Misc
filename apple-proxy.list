@@ -3,3 +3,4 @@ host, appleid.apple.com, proxy
 host, gsa.apple.com, proxy
 host, statici.icloud.com, proxy
 host, p55-buy.itunes.apple.com, proxy
+host, xp.apple.com, reject
