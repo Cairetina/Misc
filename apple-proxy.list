@@ -81,6 +81,7 @@ host, ld-7.itunes.apple.com, proxy
 host, ld-8.itunes.apple.com, proxy
 host, appleid.apple.com, proxy
 host, appleid.cdn-apple.com, proxy
+host, idmsa.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
 host-suffix, ls.apple.com, proxy
 host-suffix, ess.apple.com, proxy
