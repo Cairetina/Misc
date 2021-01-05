@@ -71,7 +71,6 @@ host, smp-device-content.apple.com, proxy
 host, radio-activity.itunes.apple.com, proxy
 host, captive.apple.com, proxy
 host, audio-ssl.itunes.apple.com, proxy
-host, blobstore.apple.com, proxy
 host, ld-1.itunes.apple.com, proxy
 host, ld-2.itunes.apple.com, proxy
 host, ld-3.itunes.apple.com, proxy
@@ -80,5 +79,6 @@ host, ld-5.itunes.apple.com, proxy
 host, ld-6.itunes.apple.com, proxy
 host, ld-7.itunes.apple.com, proxy
 host, ld-8.itunes.apple.com, proxy
+host-suffix, blobstore.apple.com, proxy
 host-suffix, ls.apple.com, proxy
 host-suffix, ess.apple.com, proxy
