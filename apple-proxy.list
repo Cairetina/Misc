@@ -89,6 +89,7 @@ host, weather-edge.apple.com, proxy
 host, partiality.itunes.apple.com, proxy
 host, securemvt.apple.com, proxy
 host, books-analytics-events.apple.com, proxy
+host, securemetrics.apple.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
 host-suffix, ls.apple.com, proxy
