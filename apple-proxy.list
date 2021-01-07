@@ -1,6 +1,7 @@
 host, init.push.apple.com, proxy
 host, appleid.apple.com, proxy
 host, gsa.apple.com, proxy
+host, gsa.apple.com.akadns.net, proxy
 host, gsas.apple.com, proxy
 host, gsas.apple.com.akadns.net, proxy
 host, statici.icloud.com, proxy
