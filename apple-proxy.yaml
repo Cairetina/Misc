@@ -2,6 +2,11 @@ payload:
   - DOMAIN,init.push.apple.com
   - DOMAIN,appleid.apple.com
   - DOMAIN,gsa.apple.com
+  - DOMAIN,gsa.apple.com.akadns.net
+  - DOMAIN,gsas.apple.com
+  - DOMAIN,gsas.apple.com.akadns.net
+  - DOMAIN,kt-prod.apple.com
+  - DOMAIN,time.apple.com
   - DOMAIN,statici.icloud.com
   - DOMAIN,p1-buy.itunes.apple.com
   - DOMAIN,p2-buy.itunes.apple.com
