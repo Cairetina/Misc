@@ -86,7 +86,7 @@ host, appleid.cdn-apple.com, proxy
 host, idmsa.apple.com, proxy
 host, supportmetrics.apple.com, proxy
 host, discussions.apple.com, proxy
-host, time.apple.com, proxy
+host, pba.apple.com, proxy
 host, weather-analytics-events.apple.com, proxy
 host, weather-edge.apple.com, proxy
 host, partiality.itunes.apple.com, proxy
