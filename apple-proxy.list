@@ -89,6 +89,7 @@ host, discussions.apple.com, proxy
 host, pba.apple.com, proxy
 host, weather-analytics-events.apple.com, proxy
 host, weather-edge.apple.com, proxy
+host, books-edge.apple.com, proxy
 host, partiality.itunes.apple.com, proxy
 host, securemvt.apple.com, proxy
 host, books-analytics-events.apple.com, proxy
