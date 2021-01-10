@@ -96,6 +96,7 @@ host, books-analytics-events.apple.com, proxy
 host, securemetrics.apple.com, proxy
 host, iphonesubmissions.apple.com, proxy
 host, kt-prod.apple.com, proxy
+host, uts-api.itunes.apple.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
 host-suffix, ls.apple.com, proxy
