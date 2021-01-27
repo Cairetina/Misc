@@ -105,6 +105,8 @@ host, genius-upload-2.itunes.apple.com, proxy
 host, aidc.apple.com, proxy
 host, tbsc.apple.com, proxy
 host, video.itunes.apple.com, proxy
+host, radio.itunes.apple.com, proxy
+host, radio-activity.itunes.apple.com, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
