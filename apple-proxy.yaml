@@ -105,6 +105,7 @@ payload:
   - DOMAIN,genius-upload-2.itunes.apple.com
   - DOMAIN,aidc.apple.com
   - DOMAIN,tbsc.apple.com
+  - DOMAIN,video.itunes.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
