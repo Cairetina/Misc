@@ -3,3 +3,4 @@ payload:
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
   - DOMAIN,gspe19-cn-ssl.ls.apple.com
+  - DOMAIN,gspe35-ssl.ls.apple.com
