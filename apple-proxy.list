@@ -108,6 +108,8 @@ host, video.itunes.apple.com, proxy
 host, radio.itunes.apple.com, proxy
 host, radio-activity.itunes.apple.com, proxy
 host, gdmf.apple.com, proxy
+host, guzzoni.apple.com, proxy
+host, guzzoni-apple-com.v.aaplimg.com, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
