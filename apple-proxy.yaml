@@ -106,6 +106,8 @@ payload:
   - DOMAIN,aidc.apple.com
   - DOMAIN,tbsc.apple.com
   - DOMAIN,video.itunes.apple.com
+  - DOMAIN,radio.itunes.apple.com
+  - DOMAIN,radio-activity.itunes.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
