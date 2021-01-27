@@ -111,6 +111,7 @@ host, gdmf.apple.com, proxy
 host, guzzoni.apple.com, proxy
 host, guzzoni-apple-com.v.aaplimg.com, proxy
 host, probe.icloud.com, proxy
+host, sb.music.apple.com, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
