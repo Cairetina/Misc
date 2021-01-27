@@ -108,6 +108,7 @@ payload:
   - DOMAIN,video.itunes.apple.com
   - DOMAIN,radio.itunes.apple.com
   - DOMAIN,radio-activity.itunes.apple.com
+  - DOMAIN,gdmf.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
