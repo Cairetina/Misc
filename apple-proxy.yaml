@@ -112,6 +112,7 @@ payload:
   - DOMAIN,guzzoni.apple.com
   - DOMAIN,guzzoni-apple-com.v.aaplimg.com
   - DOMAIN,probe.icloud.com
+  - DOMAIN,sb.music.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
