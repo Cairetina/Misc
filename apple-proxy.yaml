@@ -109,8 +109,7 @@ payload:
   - DOMAIN,radio.itunes.apple.com
   - DOMAIN,radio-activity.itunes.apple.com
   - DOMAIN,gdmf.apple.com
-  - DOMAIN,guzzoni.apple.com
-  - DOMAIN,guzzoni-apple-com.v.aaplimg.com
+  - DOMAIN,sandbox.itunes.apple.com
   - DOMAIN,probe.icloud.com
   - DOMAIN,sb.music.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
