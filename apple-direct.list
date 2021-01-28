@@ -3,6 +3,7 @@ host, apps.apple.com, direct
 host, itunes.apple.com, direct
 host, gspe19-cn-ssl.ls.apple.com, direct
 host, gspe79-cn-ssl.ls.apple.com, direct
+host, gsp10-ssl-cn.ls.apple.com, direct
 host, gspe35-ssl.ls.apple.com, direct
 host, gspe85-ssl.ls.apple.com, direct
 host-suffix, iadsdk.apple.com, direct
