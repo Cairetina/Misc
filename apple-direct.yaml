@@ -7,4 +7,5 @@ payload:
   - DOMAIN,gsp10-ssl-cn.ls.apple.com
   - DOMAIN,gspe35-ssl.ls.apple.com
   - DOMAIN,gspe85-ssl.ls.apple.com
+  - DOMAIN,smp-device-content.apple.com
   - DOMAIN-SUFFIX,iadsdk.apple.com
