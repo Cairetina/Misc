@@ -111,6 +111,8 @@ payload:
   - DOMAIN,sandbox.itunes.apple.com
   - DOMAIN,probe.icloud.com
   - DOMAIN,sb.music.apple.com
+  - DOMAIN,smp-device-content.apple.com
+  - DOMAIN,pr-pod3-smp-device.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
