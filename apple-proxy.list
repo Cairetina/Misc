@@ -111,7 +111,6 @@ host, gdmf.apple.com, proxy
 host, sandbox.itunes.apple.com, proxy
 host, probe.icloud.com, proxy
 host, sb.music.apple.com, proxy
-host, audio-ssl.itunes.apple.com, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
