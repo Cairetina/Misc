@@ -1,6 +1,7 @@
 payload:
   # > 流媒体内容
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
+  - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-KEYWORD,oversea-tw.inter.iqiyi.com
   - DOMAIN-KEYWORD,oversea-tw.inter.ptqy.gitv.tv
   - IP-CIDR,103.44.56.0/22,no-resolve
