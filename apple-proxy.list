@@ -112,6 +112,7 @@ host, probe.icloud.com, proxy
 host, sb.music.apple.com, proxy
 host, smp-device-content.apple.com, proxy
 host, pr-pod3-smp-device.apple.com, proxy
+host, sse-ws-p189.apple.com, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
