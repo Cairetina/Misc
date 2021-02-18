@@ -2,6 +2,7 @@ payload:
   - DOMAIN,ocsp.apple.com
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
+  - DOMAIN,static.ess.apple.com
   - DOMAIN,gspe19-cn-ssl.ls.apple.com
   - DOMAIN,gspe79-cn-ssl.ls.apple.com
   - DOMAIN,gsp10-ssl-cn.ls.apple.com
