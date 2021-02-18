@@ -1,6 +1,7 @@
 host, ocsp.apple.com, direct
 host, apps.apple.com, direct
 host, itunes.apple.com, direct
+host, static.ess.apple.com, direct
 host, gspe19-cn-ssl.ls.apple.com, direct
 host, gspe79-cn-ssl.ls.apple.com, direct
 host, gsp10-ssl-cn.ls.apple.com, direct
