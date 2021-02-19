@@ -115,6 +115,7 @@ payload:
   - DOMAIN,pr-pod3-smp-device.apple.com
   - DOMAIN,sse-ws-p189.apple.com
   - DOMAIN,ap-oversea-tls.agora.io
+  - DOMAIN,ap-oversea.agora.io
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
