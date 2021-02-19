@@ -117,6 +117,7 @@ payload:
   - DOMAIN,ap-oversea-tls.agora.io
   - DOMAIN,ap-oversea.agora.io
   - DOMAIN,ap-oversea2.agora.io
+  - DOMAIN,report-oversea.agora.io
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
