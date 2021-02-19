@@ -115,6 +115,7 @@ host, pr-pod3-smp-device.apple.com, proxy
 host, sse-ws-p189.apple.com, proxy
 host, ap-oversea-tls.agora.io, proxy
 host, ap-oversea.agora.io, proxy
+host, ap-oversea2.agora.io, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
