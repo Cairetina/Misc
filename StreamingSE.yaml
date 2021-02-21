@@ -1,7 +1,6 @@
 payload:
   # > bilibili
-  - DOMAIN,grpc.biliapi.net
-  - DOMAIN,api.bilibili.com
+  - DOMAIN,www.bilibili.com
   # > 愛奇藝台灣站 & iQIYI
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN,cache.video.iqiyi.com
