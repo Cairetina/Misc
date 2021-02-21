@@ -1,6 +1,5 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,StreamingSE
-DOMAIN-SUFFIX,bilibili.com,StreamingSE
+DOMAIN,api.bilibili.com,StreamingSE
 # > 愛奇藝台灣站 & iQIYI
 DOMAIN-SUFFIX,iq.com,StreamingSE
 DOMAIN,cache.video.iqiyi.com,StreamingSE
