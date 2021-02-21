@@ -1,6 +1,7 @@
 payload:
   # > 流媒体内容
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
+  - DOMAIN-KEYWORD,cn-hk-eq-bcache-
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-KEYWORD,oversea-tw.inter.iqiyi.com
   - DOMAIN-KEYWORD,oversea-tw.inter.ptqy.gitv.tv
