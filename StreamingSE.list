@@ -1,5 +1,4 @@
 # > bilibili
-# DOMAIN,api.bilibili.com,StreamingSE
 DOMAIN,grpc.biliapi.net,StreamingSE
 # > 愛奇藝台灣站 & iQIYI
 DOMAIN-SUFFIX,iq.com,StreamingSE
