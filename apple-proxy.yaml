@@ -71,7 +71,6 @@ payload:
   - DOMAIN,buy.itunes.apple.com
   - DOMAIN,buy.itunes-apple.com.akadns.net
   - DOMAIN,xp.apple.com
-  - DOMAIN,captive.apple.com
   - DOMAIN,audio-ssl.itunes.apple.com
   - DOMAIN,ld-1.itunes.apple.com
   - DOMAIN,ld-2.itunes.apple.com
