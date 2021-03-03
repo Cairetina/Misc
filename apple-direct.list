@@ -1,4 +1,5 @@
 host, ocsp.apple.com, direct
+host, captive.apple.com, direct
 host, apps.apple.com, direct
 host, itunes.apple.com, direct
 host, static.ess.apple.com, direct
