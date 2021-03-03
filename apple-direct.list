@@ -8,5 +8,4 @@ host, gspe79-cn-ssl.ls.apple.com, direct
 host, gsp10-ssl-cn.ls.apple.com, direct
 host, gspe35-ssl.ls.apple.com, direct
 host, gspe85-ssl.ls.apple.com, direct
-host-suffix, workflow.is, direct
 host-suffix, iadsdk.apple.com, direct
