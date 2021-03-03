@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,ocsp.apple.com
+  - DOMAIN,captive.apple.com
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
   - DOMAIN,static.ess.apple.com
