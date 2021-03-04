@@ -1,1 +1,1 @@
-^(http|https)://(www.)?google.*amp\.[\w./-+]+ url 302 https://$3
+^(http|https)://(www.)?(google.*amp\.)[\w./-+]+ url 302 https://$4
