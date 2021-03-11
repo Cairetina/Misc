@@ -1,0 +1,2 @@
+hostname = www.anandtech.com
+^https://www.anandtech.com/show/(\w*)?(?=/) url 302 https://www.anandtech.com/print/$1
