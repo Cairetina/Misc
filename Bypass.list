@@ -1,6 +1,5 @@
 ip6-cidr, ::/128, direct
 ip6-cidr, ::1/128, direct
-ip6-cidr, ::ffff:0:0/96, direct
 ip6-cidr, 100::/64, direct
 ip6-cidr, 64:ff9b::/96, direct
 ip6-cidr, 2001::/32, direct
