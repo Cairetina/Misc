@@ -1,1 +1,2 @@
+host-keyword, cn-hk-eq-bcache-, reject
 ip-cidr, 103.151.150.0/23, reject
