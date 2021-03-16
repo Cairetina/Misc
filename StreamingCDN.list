@@ -4,7 +4,6 @@ DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,StreamingSE
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,StreamingSE
 DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com,StreamingSE
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,StreamingSE
-DOMAIN-SUFFIX,bilivideo.com,StreamingSE
 IP-CIDR,103.44.56.0/22,StreamingSE
 IP-CIDR,45.64.21.11/32,StreamingSE
 IP-CIDR,118.26.32.0/23,StreamingSE
