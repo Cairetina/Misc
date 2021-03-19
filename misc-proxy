@@ -1,0 +1,5 @@
+host, activation.crossutility.com, proxy
+host, ap-oversea-tls.agora.io, proxy
+host, ap-oversea.agora.io, proxy
+host, ap-oversea2.agora.io, proxy
+host, report-oversea.agora.io, proxy
