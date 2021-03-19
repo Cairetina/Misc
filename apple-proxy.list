@@ -75,7 +75,7 @@ host, ld-5.itunes.apple.com, proxy
 host, ld-6.itunes.apple.com, proxy
 host, ld-7.itunes.apple.com, proxy
 host, ld-8.itunes.apple.com, proxy
-host, appleid.cdn-apple.com, proxy
+host, appleid.apple.com, proxy
 host, idmsa.apple.com, proxy
 host, supportmetrics.apple.com, proxy
 host, pba.apple.com, proxy
