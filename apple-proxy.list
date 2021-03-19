@@ -1,3 +1,4 @@
+host, activation.crossutility.com, proxy
 host, init.push.apple.com, proxy
 host, appleid.apple.com, proxy
 host, gsa.apple.com, proxy
