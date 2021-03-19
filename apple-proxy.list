@@ -1,4 +1,3 @@
-host, activation.crossutility.com, proxy
 host, init.push.apple.com, proxy
 host, appleid.apple.com, proxy
 host, gsa.apple.com, proxy
@@ -113,10 +112,6 @@ host, sb.music.apple.com, proxy
 host, smp-device-content.apple.com, proxy
 host, pr-pod3-smp-device.apple.com, proxy
 host, sse-ws-p189.apple.com, proxy
-host, ap-oversea-tls.agora.io, proxy
-host, ap-oversea.agora.io, proxy
-host, ap-oversea2.agora.io, proxy
-host, report-oversea.agora.io, proxy
 host-suffix, apple-cloudkit.com, proxy
 host-suffix, events.apple.com, proxy
 host-suffix, blobstore.apple.com, proxy
