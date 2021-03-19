@@ -1,0 +1,17 @@
+host, statici.icloud.com, proxy
+host, probe.icloud.com, proxy
+host, xp.apple.com, proxy
+host, appleid.cdn-apple.com, proxy
+host, discussions.apple.com, proxy
+host, sb.music.apple.com, proxy
+host, uts-api.itunes.apple.com, proxy
+host, audio-ssl.itunes.apple.com, proxy
+host, video.itunes.apple.com, proxy
+host, radio.itunes.apple.com, proxy
+host, radio-activity.itunes.apple.com, proxy
+host, partiality.itunes.apple.com, proxy
+host, securemvt.apple.com, proxy
+host, securemvt.apple.com.cn, proxy
+host, securemetrics.apple.com, proxy
+host, securemetrics.apple.com.cn, proxy
+host, smp-device-content.apple.com, proxy
