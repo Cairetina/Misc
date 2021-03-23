@@ -5,5 +5,5 @@ payload:
   - DOMAIN-SUFFIX,activity.windows.com
   - DOMAIN-SUFFIX,pipe.aria.microsoft.com
   - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
   - DOMAIN-KEYWORD,officecdn
