@@ -1,15 +1,2 @@
-# > bilibili
-DOMAIN,api.bilibili.com,StreamingSE
-DOMAIN,grpc.biliapi.net,StreamingSE
-# > 愛奇藝台灣站 & iQIYI
-DOMAIN-SUFFIX,iq.com,StreamingSE
-DOMAIN,cache.video.iqiyi.com,StreamingSE
-DOMAIN,cache-video.iq.com,StreamingSE
-DOMAIN,intl.iqiyi.com,StreamingSE
-DOMAIN,intl-rcd.iqiyi.com,StreamingSE
-DOMAIN,intl-subscription.iqiyi.com,StreamingSE
-# > 芒果TV国际
-DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
-# > WeTV
-DOMAIN-SUFFIX,wetv.vip,StreamingSE
-DOMAIN-SUFFIX,wetvinfo.com,StreamingSE
+DOMAIN,api.bilibili.com
+DOMAIN,grpc.biliapi.net
