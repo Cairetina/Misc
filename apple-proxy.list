@@ -1,101 +1,101 @@
-host, init.push.apple.com, proxy
-host, gsa.apple.com, proxy
-host, gsa.apple.com.akadns.net, proxy
-host, gsas.apple.com, proxy
-host, gsas.apple.com.akadns.net, proxy
-host, p1-buy.itunes.apple.com, proxy
-host, p2-buy.itunes.apple.com, proxy
-host, p3-buy.itunes.apple.com, proxy
-host, p6-buy.itunes.apple.com, proxy
-host, p7-buy.itunes.apple.com, proxy
-host, p8-buy.itunes.apple.com, proxy
-host, p9-buy.itunes.apple.com, proxy
-host, p10-buy.itunes.apple.com, proxy
-host, p11-buy.itunes.apple.com, proxy
-host, p12-buy.itunes.apple.com, proxy
-host, p14-buy.itunes.apple.com, proxy
-host, p15-buy.itunes.apple.com, proxy
-host, p16-buy.itunes.apple.com, proxy
-host, p17-buy.itunes.apple.com, proxy
-host, p18-buy.itunes.apple.com, proxy
-host, p19-buy.itunes.apple.com, proxy
-host, p20-buy.itunes.apple.com, proxy
-host, p21-buy.itunes.apple.com, proxy
-host, p22-buy.itunes.apple.com, proxy
-host, p23-buy.itunes.apple.com, proxy
-host, p24-buy.itunes.apple.com, proxy
-host, p25-buy.itunes.apple.com, proxy
-host, p26-buy.itunes.apple.com, proxy
-host, p27-buy.itunes.apple.com, proxy
-host, p28-buy.itunes.apple.com, proxy
-host, p29-buy.itunes.apple.com, proxy
-host, p30-buy.itunes.apple.com, proxy
-host, p31-buy.itunes.apple.com, proxy
-host, p32-buy.itunes.apple.com, proxy
-host, p33-buy.itunes.apple.com, proxy
-host, p34-buy.itunes.apple.com, proxy
-host, p35-buy.itunes.apple.com, proxy
-host, p36-buy.itunes.apple.com, proxy
-host, p37-buy.itunes.apple.com, proxy
-host, p38-buy.itunes.apple.com, proxy
-host, p39-buy.itunes.apple.com, proxy
-host, p40-buy.itunes.apple.com, proxy
-host, p41-buy.itunes.apple.com, proxy
-host, p42-buy.itunes.apple.com, proxy
-host, p43-buy.itunes.apple.com, proxy
-host, p44-buy.itunes.apple.com, proxy
-host, p45-buy.itunes.apple.com, proxy
-host, p46-buy.itunes.apple.com, proxy
-host, p47-buy.itunes.apple.com, proxy
-host, p48-buy.itunes.apple.com, proxy
-host, p49-buy.itunes.apple.com, proxy
-host, p50-buy.itunes.apple.com, proxy
-host, p51-buy.itunes.apple.com, proxy
-host, p52-buy.itunes.apple.com, proxy
-host, p53-buy.itunes.apple.com, proxy
-host, p54-buy.itunes.apple.com, proxy
-host, p55-buy.itunes.apple.com, proxy
-host, p56-buy.itunes.apple.com, proxy
-host, p57-buy.itunes.apple.com, proxy
-host, p58-buy.itunes.apple.com, proxy
-host, p59-buy.itunes.apple.com, proxy
-host, p60-buy.itunes.apple.com, proxy
-host, p61-buy.itunes.apple.com, proxy
-host, p70-buy.itunes.apple.com, proxy
-host, p71-buy.itunes.apple.com, proxy
-host, p72-buy.itunes.apple.com, proxy
-host, p73-buy.itunes.apple.com, proxy
-host, buy.itunes.apple.com, proxy
-host, buy.itunes-apple.com.akadns.net, proxy
-host, ld-1.itunes.apple.com, proxy
-host, ld-2.itunes.apple.com, proxy
-host, ld-3.itunes.apple.com, proxy
-host, ld-4.itunes.apple.com, proxy
-host, ld-5.itunes.apple.com, proxy
-host, ld-6.itunes.apple.com, proxy
-host, ld-7.itunes.apple.com, proxy
-host, ld-8.itunes.apple.com, proxy
-host, appleid.apple.com, proxy
-host, idmsa.apple.com, proxy
-host, supportmetrics.apple.com, proxy
-host, pba.apple.com, proxy
-host, weather-analytics-events.apple.com, proxy
-host, weather-edge.apple.com, proxy
-host, books-edge.apple.com, proxy
-host, books-analytics-events.apple.com, proxy
-host, iphonesubmissions.apple.com, proxy
-host, kt-prod.apple.com, proxy
-host, humb.apple.com, proxy
-host, genius-2.itunes.apple.com, proxy
-host, genius-upload-2.itunes.apple.com, proxy
-host, aidc.apple.com, proxy
-host, tbsc.apple.com, proxy
-host, gdmf.apple.com, proxy
-host, sandbox.itunes.apple.com, proxy
-host, pr-pod3-smp-device.apple.com, proxy
-host, sse-ws-p189.apple.com, proxy
-host-suffix, apple-cloudkit.com, proxy
-host-suffix, events.apple.com, proxy
-host-suffix, blobstore.apple.com, proxy
-host-suffix, ls.apple.com, proxy
-host-suffix, ess.apple.com, proxy
+DOMAIN,init.push.apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,gsa.apple.com.akadns.net
+DOMAIN,gsas.apple.com
+DOMAIN,gsas.apple.com.akadns.net
+DOMAIN,p1-buy.itunes.apple.com
+DOMAIN,p2-buy.itunes.apple.com
+DOMAIN,p3-buy.itunes.apple.com
+DOMAIN,p6-buy.itunes.apple.com
+DOMAIN,p7-buy.itunes.apple.com
+DOMAIN,p8-buy.itunes.apple.com
+DOMAIN,p9-buy.itunes.apple.com
+DOMAIN,p10-buy.itunes.apple.com
+DOMAIN,p11-buy.itunes.apple.com
+DOMAIN,p12-buy.itunes.apple.com
+DOMAIN,p14-buy.itunes.apple.com
+DOMAIN,p15-buy.itunes.apple.com
+DOMAIN,p16-buy.itunes.apple.com
+DOMAIN,p17-buy.itunes.apple.com
+DOMAIN,p18-buy.itunes.apple.com
+DOMAIN,p19-buy.itunes.apple.com
+DOMAIN,p20-buy.itunes.apple.com
+DOMAIN,p21-buy.itunes.apple.com
+DOMAIN,p22-buy.itunes.apple.com
+DOMAIN,p23-buy.itunes.apple.com
+DOMAIN,p24-buy.itunes.apple.com
+DOMAIN,p25-buy.itunes.apple.com
+DOMAIN,p26-buy.itunes.apple.com
+DOMAIN,p27-buy.itunes.apple.com
+DOMAIN,p28-buy.itunes.apple.com
+DOMAIN,p29-buy.itunes.apple.com
+DOMAIN,p30-buy.itunes.apple.com
+DOMAIN,p31-buy.itunes.apple.com
+DOMAIN,p32-buy.itunes.apple.com
+DOMAIN,p33-buy.itunes.apple.com
+DOMAIN,p34-buy.itunes.apple.com
+DOMAIN,p35-buy.itunes.apple.com
+DOMAIN,p36-buy.itunes.apple.com
+DOMAIN,p37-buy.itunes.apple.com
+DOMAIN,p38-buy.itunes.apple.com
+DOMAIN,p39-buy.itunes.apple.com
+DOMAIN,p40-buy.itunes.apple.com
+DOMAIN,p41-buy.itunes.apple.com
+DOMAIN,p42-buy.itunes.apple.com
+DOMAIN,p43-buy.itunes.apple.com
+DOMAIN,p44-buy.itunes.apple.com
+DOMAIN,p45-buy.itunes.apple.com
+DOMAIN,p46-buy.itunes.apple.com
+DOMAIN,p47-buy.itunes.apple.com
+DOMAIN,p48-buy.itunes.apple.com
+DOMAIN,p49-buy.itunes.apple.com
+DOMAIN,p50-buy.itunes.apple.com
+DOMAIN,p51-buy.itunes.apple.com
+DOMAIN,p52-buy.itunes.apple.com
+DOMAIN,p53-buy.itunes.apple.com
+DOMAIN,p54-buy.itunes.apple.com
+DOMAIN,p55-buy.itunes.apple.com
+DOMAIN,p56-buy.itunes.apple.com
+DOMAIN,p57-buy.itunes.apple.com
+DOMAIN,p58-buy.itunes.apple.com
+DOMAIN,p59-buy.itunes.apple.com
+DOMAIN,p60-buy.itunes.apple.com
+DOMAIN,p61-buy.itunes.apple.com
+DOMAIN,p70-buy.itunes.apple.com
+DOMAIN,p71-buy.itunes.apple.com
+DOMAIN,p72-buy.itunes.apple.com
+DOMAIN,p73-buy.itunes.apple.com
+DOMAIN,buy.itunes.apple.com
+DOMAIN,buy.itunes-apple.com.akadns.net
+DOMAIN,ld-1.itunes.apple.com
+DOMAIN,ld-2.itunes.apple.com
+DOMAIN,ld-3.itunes.apple.com
+DOMAIN,ld-4.itunes.apple.com
+DOMAIN,ld-5.itunes.apple.com
+DOMAIN,ld-6.itunes.apple.com
+DOMAIN,ld-7.itunes.apple.com
+DOMAIN,ld-8.itunes.apple.com
+DOMAIN,appleid.apple.com
+DOMAIN,idmsa.apple.com
+DOMAIN,supportmetrics.apple.com
+DOMAIN,pba.apple.com
+DOMAIN,weather-analytics-events.apple.com
+DOMAIN,weather-edge.apple.com
+DOMAIN,books-edge.apple.com
+DOMAIN,books-analytics-events.apple.com
+DOMAIN,iphonesubmissions.apple.com
+DOMAIN,kt-prod.apple.com
+DOMAIN,humb.apple.com
+DOMAIN,genius-2.itunes.apple.com
+DOMAIN,genius-upload-2.itunes.apple.com
+DOMAIN,aidc.apple.com
+DOMAIN,tbsc.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN,pr-pod3-smp-device.apple.com
+DOMAIN,sse-ws-p189.apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,events.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,ess.apple.com
