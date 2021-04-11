@@ -1,0 +1,8 @@
+#!name=Anandtech
+#!desc=Anandtech RSS 显示全文
+
+[URL Rewrite]
+^https://www.anandtech.com/show/(\w*)?(?=/) https://www.anandtech.com/print/$1 302
+
+[MITM]
+hostname = %INSERT% www.anandtech.com
