@@ -1,27 +1,27 @@
-host, activation.crossutility.com, proxy
-host, ap-oversea-tls.agora.io, proxy
-host, ap-oversea.agora.io, proxy
-host, ap-oversea2.agora.io, proxy
-host, report-oversea.agora.io, proxy
-host, wotrus.ocsp.sectigo.com, proxy
-host, ocsp.comodoca.com, proxy
-host, ocsp.usertrust.com, proxy
-host, ocsp.sectigo.com, proxy
-host, ocsp.godaddy.com, proxy
-host, ocsp.digicert.com, proxy
-host, r3.o.lencr.org, proxy
-host, data.flurry.com, proxy
-host, mozilla.cloudflare-dns.com, proxy
-host, clubhouse.pubnubapi.com, proxy
-host-suffix, wp.com, proxy
-host-suffix, mrmacintosh.com, proxy
-host-suffix, 9to5mac.com, proxy
-host-suffix, theverge.com, proxy
-host-suffix, macstories.net, proxy
-host-suffix, anandtech.com, proxy
-host-suffix, techinsights.com, proxy
-host-suffix, appcenter.ms, proxy
-host-suffix, amplitude.com, proxy
-host-suffix, nxtlnodes.com, proxy
-host-suffix, amysecure.com, proxy
-host-keyword, amytele, proxy
+DOMAIN,activation.crossutility.com
+DOMAIN,ap-oversea-tls.agora.io
+DOMAIN,ap-oversea.agora.io
+DOMAIN,ap-oversea2.agora.io
+DOMAIN,report-oversea.agora.io
+DOMAIN,wotrus.ocsp.sectigo.com
+DOMAIN,ocsp.comodoca.com
+DOMAIN,ocsp.usertrust.com
+DOMAIN,ocsp.sectigo.com
+DOMAIN,ocsp.godaddy.com
+DOMAIN,ocsp.digicert.com
+DOMAIN,r3.o.lencr.org
+DOMAIN,data.flurry.com
+DOMAIN,mozilla.cloudflare-dns.com
+DOMAIN,clubhouse.pubnubapi.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,mrmacintosh.com
+DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,macstories.net
+DOMAIN-SUFFIX,anandtech.com
+DOMAIN-SUFFIX,techinsights.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,nxtlnodes.com
+DOMAIN-SUFFIX,amysecure.com
+DOMAIN-KEYWORD,amytele
