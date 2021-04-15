@@ -1,3 +1,6 @@
+#!name=macOS Overlay
+#!desc=适用于 macOS 的额外设置
+
 [Rule]
 PROCESS-NAME,Microsoft Update Assistant,DIRECT
 PROCESS-NAME,Microsoft AutoUpdate,DIRECT
