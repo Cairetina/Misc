@@ -2,10 +2,10 @@
 #!desc=适用于 macOS 的额外设置
 
 [Rule]
-PROCESS-NAME,Microsoft Update Assistant,DIRECT
-PROCESS-NAME,Microsoft AutoUpdate,DIRECT
-PROCESS-NAME,msupdate,DIRECT
-DOMAIN,atum.hac.lp1.d4c.nintendo.net,DIRECT
+PROCESS-NAME,Microsoft Update Assistant,直连
+PROCESS-NAME,Microsoft AutoUpdate,直连
+PROCESS-NAME,msupdate,直连
+DOMAIN,atum.hac.lp1.d4c.nintendo.net,直连
 DOMAIN,www.bilibili.com,哔哩哔哩
 
 [Host]
