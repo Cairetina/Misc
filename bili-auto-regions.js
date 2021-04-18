@@ -1,5 +1,5 @@
 const Group = $persistentStore.read('BiliArea_Policy') || '哔哩哔哩';
-const CN = $persistentStore.read('BiliArea_CN') || 'DIRECT';
+const CN = $persistentStore.read('BiliArea_CN') || '直连';
 const TW = $persistentStore.read('BiliArea_TW') || '台湾';
 const HK = $persistentStore.read('BiliArea_HK') || '香港';
 
