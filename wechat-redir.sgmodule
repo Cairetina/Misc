@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM] 
-hostname = weixin110.qq.com
+hostname = %APPEND% weixin110.qq.com
 
 [Script]
 tbopener.js = type=http-response,pattern=^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi,requires-body=1,script-path=https://raw.githubusercontent.com/HotKids/Rules/master/Script/weixin110.js
