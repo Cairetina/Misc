@@ -1,5 +1,5 @@
-#!name=Eval
-#!desc=京东 & 淘宝比价
+#!name=京东/淘宝比价
+#!desc=显示京东淘宝商品历史价格
 
 [MITM]
 hostname = %INSERT% trade-acs.m.taobao.com,api.m.jd.com
