@@ -1,6 +1,10 @@
 #!name=macOS Overlay
 #!desc=适用于 macOS 的额外设置
 
+[General]
+http-listen = 0.0.0.0
+socks5-listen = 0.0.0.0
+
 [Rule]
 PROCESS-NAME,Microsoft Update Assistant,直连
 PROCESS-NAME,Microsoft AutoUpdate,直连
