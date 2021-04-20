@@ -2,8 +2,6 @@
 #!desc=适用于 macOS 的额外设置
 
 [General]
-network-framework = true
-tls-provider = network-framework
 http-listen = 0.0.0.0
 socks5-listen = 0.0.0.0
 
