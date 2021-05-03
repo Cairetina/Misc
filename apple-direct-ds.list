@@ -1,7 +1,5 @@
 ocsp.apple.com
 captive.apple.com
-courier-push-apple.com.akadns.net
-push-apple.com.akadns.net
 apps.apple.com
 itunes.apple.com
 static.ess.apple.com
@@ -13,3 +11,4 @@ gspe35-ssl.ls.apple.com
 gspe85-ssl.ls.apple.com
 upos-hz-mirrorakam.akamaized.net
 .iadsdk.apple.com
+.push.apple.com
