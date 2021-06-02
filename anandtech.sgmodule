@@ -3,3 +3,6 @@
 
 [URL Rewrite]
 ^https://www.anandtech.com/show/(\w*)?(?=/) https://www.anandtech.com/print/$1 307
+
+[MITM]
+hostname = %INSERT% www.anandtech.com
