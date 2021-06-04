@@ -6,4 +6,4 @@ hostname = %INSERT% amp.reddit.com,www.google.com
 
 [URL Rewrite]
 ^https?:\/\/www\.google\.com\/async\/ampfp - reject
-^https?://amp.reddit.com/(\w*)?(?=/) https://www.anandtech.com/$1 307
+^https?://amp.reddit.com/(\w*)?(?=/) https://www.reddit.com/$1 307
