@@ -2,4 +2,4 @@
 #!desc=禁止 Google 搜索使用 Google AMP 工具加载网页
 
 [MITM]
-hostname = %INSERT% *.ampproject.org
+hostname = %INSERT% *.ampproject.org www.google.com
