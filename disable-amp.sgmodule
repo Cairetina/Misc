@@ -3,3 +3,6 @@
 
 [MITM]
 hostname = %INSERT% *.ampproject.org,www.google.com
+
+[URL Rewrite]
+^https?:\/\/www\.google\.com\/async\/ampfp - reject
