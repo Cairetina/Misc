@@ -1,0 +1,5 @@
+#!name=禁用 Google AMP 工具
+#!desc=禁止 Google 搜索使用 Google AMP 工具加载网页
+
+[MITM]
+hostname = %INSERT% *.ampproject.org
