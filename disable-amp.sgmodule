@@ -2,7 +2,8 @@
 #!desc=禁止 Google 搜索使用 Google AMP 工具加载网页
 
 [MITM]
-hostname = %INSERT% amp.*,www.google.com
+hostname = %INSERT% amp.reddit.com,www.google.com
 
 [URL Rewrite]
 ^https?:\/\/www\.google\.com\/async\/ampfp - reject
+^https?://amp.reddit.com/(\w*)?(?=/) https://www.anandtech.com/$1 307
