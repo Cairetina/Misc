@@ -11,4 +11,4 @@ hostname = %INSERT% amp.reddit.com,9to5mac.com,www.theverge.com,www.macworld.com
 ^https?://www.macrumors.com/(\S*)/amp/ https://www.macrumors.com/$1 307
 ^https?://www.macworld.com/(\S*)/amp https://www.macworld.com/$1 307
 ^https?://www.theverge.com/platform/amp/(\S*) https://www.theverge.com/$1 307
-^https?://flipboard.com/(\S*)/(\S*)format=amp https://flipboard.com/$1 307
+^https?://flipboard.com/(\S*)/(\S*)\?format=amp https://flipboard.com/$1 307
