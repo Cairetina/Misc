@@ -2,7 +2,7 @@
 #!desc=禁止 Google 搜索使用 Google AMP 工具加载网页
 
 [MITM]
-hostname = %INSERT% *.ampproject.org,www.google.com
+hostname = %INSERT% amp.*,www.google.com
 
 [URL Rewrite]
 ^https?:\/\/www\.google\.com\/async\/ampfp - reject
