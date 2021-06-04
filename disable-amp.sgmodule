@@ -8,4 +8,4 @@ hostname = %INSERT% amp.reddit.com,9to5mac.com,www.theverge.com,www.macworld.com
 ^https?://www.google.com/async/ampfp - reject
 ^https?://amp.reddit.com/(\w+)/(\w*)?(?=/) https://www.reddit.com/$1/$2 307
 ^https?://9to5mac.com/(\S*)/amp/ https://9to5mac.com/$1 307
-^https?://www.macrumors.com/(\S*)/amp/ https?://www.macrumors.com/$1 307
+^https?://www.macrumors.com/(\S*)/amp/ https://www.macrumors.com/$1 307
