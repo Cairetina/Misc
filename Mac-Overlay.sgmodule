@@ -9,6 +9,7 @@ socks5-listen = 0.0.0.0
 PROCESS-NAME,aria2c,DIRECT
 DOMAIN,atum.hac.lp1.d4c.nintendo.net,DIRECT
 DOMAIN,www.bilibili.com,哔哩哔哩
+DOMAIN,softwareupdate.vmware.com,DIRECT
 DOMAIN,officeclient.microsoft.com,标准
 DOMAIN,self.events.data.microsoft.com,标准
 DOMAIN-SUFFIX,officeapps.live.com,标准
