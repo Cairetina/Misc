@@ -9,6 +9,7 @@ socks5-listen = 0.0.0.0
 PROCESS-NAME,Microsoft Update Assistant,DIRECT
 PROCESS-NAME,Microsoft AutoUpdate,DIRECT
 PROCESS-NAME,msupdate,DIRECT
+PROCESS-NAME,aria2c,DIRECT
 DOMAIN,atum.hac.lp1.d4c.nintendo.net,DIRECT
 DOMAIN,www.bilibili.com,哔哩哔哩
 
