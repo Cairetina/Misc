@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,office.com,DIRECT
 DOMAIN-SUFFIX,serifservices.com,DIRECT
 DOMAIN-SUFFIX,serif.com,DIRECT
 DOMAIN-SUFFIX,cdn.office.net,DIRECT
+DOMAIN-SUFFIX,templates.cdn.office.net,DIRECT
 DOMAIN-KEYWORD,officecdn-microsoft-com,DIRECT
 
 [Host]
