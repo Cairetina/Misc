@@ -12,7 +12,6 @@ PROCESS-NAME,msupdate,DIRECT
 PROCESS-NAME,aria2c,DIRECT
 DOMAIN,atum.hac.lp1.d4c.nintendo.net,DIRECT
 DOMAIN,www.bilibili.com,哔哩哔哩
-DOMAIN,serif-entities.api.serifservices.com,DIRECT
 DOMAIN-SUFFIX,serifservices.com,DIRECT
 DOMAIN-SUFFIX,serif.com,DIRECT
 DOMAIN-SUFFIX,cdn.office.net,DIRECT
