@@ -12,7 +12,7 @@ PROCESS-NAME,msupdate,DIRECT
 PROCESS-NAME,aria2c,DIRECT
 DOMAIN,atum.hac.lp1.d4c.nintendo.net,DIRECT
 DOMAIN,www.bilibili.com,哔哩哔哩
-DOMAIN-SUFFIX,cdn.office.net
+DOMAIN-SUFFIX,cdn.office.net,DIRECT
 DOMAIN-KEYWORD,officecdn-microsoft-com,DIRECT
 
 [Host]
