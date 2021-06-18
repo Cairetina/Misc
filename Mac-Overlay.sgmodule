@@ -19,7 +19,10 @@ DOMAIN-SUFFIX,serifservices.com,DIRECT
 DOMAIN-SUFFIX,serif.com,DIRECT
 DOMAIN-SUFFIX,cdn.office.net,DIRECT
 DOMAIN-SUFFIX,templates.cdn.office.net,DIRECT
+DOMAIN-SUFFIX,epicgames.com,DIRECT
+DOMAIN-SUFFIX,unrealengine.com,DIRECT
 DOMAIN-KEYWORD,officecdn-microsoft-com,DIRECT
+DOMAIN-KEYWORD,epicgames-download,DIRECT
 
 [Host]
 atum.hac.lp1.d4c.nintendo.net = 211.239.236.25
