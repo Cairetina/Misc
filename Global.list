@@ -1,16 +1,11 @@
-# (DNS Cache Pollution)
-# > Amazon
 .amazon.co.jp
 d3c33hcgiwev3.cloudfront.net
 payments-jp.amazon.com
 s3-ap-northeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
-# > Akamai
 a248.e.akamai.net
 a771.dscq.akamai.net
-# > Apple
 testflight.apple.com
-# > Crypto
 .aex.com
 .bibox.com
 .binance.cc
@@ -23,15 +18,12 @@ testflight.apple.com
 .okex.com
 .uniswap.org
 .zb.com
-# > Discord
 .discord.com
 .discordapp.com
 .discordapp.net
-# > Dropbox
 .dropbox.com
 .dropboxapi.com
 .dropboxusercontent.com
-# > Facebook
 .cdninstagram.com
 .facebook.com
 .facebook.net
@@ -49,11 +41,9 @@ testflight.apple.com
 .rocksdb.org
 .whatsapp.com
 .whatsapp.net
-# > Github
 .github.com
 .github.io
 .githubusercontent.com
-# > Google
 .appspot.com
 .blogger.com
 .getoutline.org
@@ -61,12 +51,10 @@ testflight.apple.com
 .gvt3.com
 .xn--ngstr-lra8j.com
 .ytimg.com
-# > Line
 .line.me
 .line-apps.com
 .line-scdn.net
 .naver.jp
-# > Microsoft
 .aka.ms
 .onedrive.live.com
 .streaming.mediaservices.windows.net
@@ -74,7 +62,6 @@ assets1.xboxlive.com
 assets2.xboxlive.com
 az416426.vo.msecnd.net
 az668014.vo.msecnd.net
-# > The New York Times
 .nyt.com
 .nytchina.com
 .nytcn.me
@@ -83,7 +70,6 @@ az668014.vo.msecnd.net
 .nytimg.com
 .nytlog.com
 .nytstyle.com
-# > Pinterest
 .pinterest.at
 .pinterest.ca
 .pinterest.co.uk
@@ -92,18 +78,14 @@ az668014.vo.msecnd.net
 .pinterest.fr
 .pinterest.jp
 .pinterest.se
-# > pixiv
 .pixiv.net
 .pixiv.org
 .pximg.net
-# > Reddit
 .redd.it
 .reddit.com
 .redditmedia.com
-# > Telegram
 .telegra.ph
 .telegram.org
-# > Twitter
 .pscp.tv
 .periscope.tv
 .t.co
@@ -112,14 +94,12 @@ az668014.vo.msecnd.net
 .twitpic.com
 .twitter.com
 .vine.co
-# > Wikimedia Foundation
 .wikileaks.org
 .wikimapia.org
 .wikimedia.org
 .wikinews.org
 .wikipedia.org
 .wikiquote.org
-# > Others
 .4shared.com
 .9cache.com
 .9gag.com
@@ -449,17 +429,12 @@ az668014.vo.msecnd.net
 .zeronet.io
 .z-lib.org
 .zoom.us
-
 cc.tvbs.com.tw
 ocsp.int-x3.letsencrypt.org
 us.weibo.com
-
 .edu
 .gov
 .mil
-
-# (IP Blackhole)
-# > Google
 .abc.xyz
 .advertisercommunity.com
 .ampproject.org
@@ -508,37 +483,23 @@ us.weibo.com
 .youtu.be
 .yt.be
 .ytimg.com
-# > Telegram
 .t.me
 .tdesktop.com
 .telegram.me
 .telesco.pe
-# > Facebook
 .facebookmail.com
-# > Others
 .noxinfluencer.com
 .smartmailcloud.com
 .weebly.com
 .twitter.jp
-
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-# > Apple URL Shortener
 .appsto.re
-# > iBooks Store download
 books.itunes.apple.com
-# > App Store Preview
 apps.apple.com
 itunes.apple.com
-# > Spotlight
 api-glb-sea.smoot.apple.com
-# > Look Up
 .smoot.apple.com
 lookup-api.apple.com
-# > Apple Music Web
 beta.music.apple.com
-# ------
-# > Others
 .bing.com
 .cccat.io
 .dubox.com
@@ -547,18 +508,13 @@ beta.music.apple.com
 .mangakakalot.com
 .shopeemobile.com
 .sushi.com
-
-# (Network Jitter)
-# > Apple
 appleid.apple.com
 developer.apple.com
 www.icloud.com
-# > DigiCert
 cacerts.digicert.com
 crl3.digicert.com
 crl4.digicert.com
 ocsp.digicert.com
-# > Others
 .cloudcone.com.cn
 .inkbunny.net
 .metapix.net
