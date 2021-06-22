@@ -1,7 +1,7 @@
 const Group = $persistentStore.read('BiliArea_Policy') || '哔哩哔哩';
 const CN = $persistentStore.read('BiliArea_CN') || 'DIRECT';
 const TW = $persistentStore.read('BiliArea_TW') || '台湾';
-const HK = $persistentStore.read('BiliArea_HK') || '香港';
+const HK = $persistentStore.read('BiliArea_HK') || '港台';
 
 var obj = JSON.parse($response.body),
 	obj = (obj.result || obj.data || {}).title || '';
