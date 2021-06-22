@@ -7,6 +7,7 @@ USER-AGENT,LrMobilePhone*
 USER-AGENT,DeepL-iOS*
 USER-AGENT,VoiceApp*
 USER-AGENT,YouTube*
+USER-AGENT,Twitch*
 USER-AGENT,pixiv*
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,Gmail*
