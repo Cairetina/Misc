@@ -2,7 +2,7 @@
 #!desc=禁止 Google 搜索使用 Google AMP 工具加载网页
 
 [MITM]
-hostname = %INSERT% amp.reddit.com,9to5mac.com,www.theverge.com,www.macworld.com,flipboard.com,www.macrumors.com,www.google.com
+hostname = %INSERT% www.acwifi.net,amp.reddit.com,9to5mac.com,www.theverge.com,www.macworld.com,flipboard.com,www.macrumors.com,www.google.com
 
 [URL Rewrite]
 ^https?://www.google.com/async/ampfp - reject
@@ -10,5 +10,6 @@ hostname = %INSERT% amp.reddit.com,9to5mac.com,www.theverge.com,www.macworld.com
 ^https?://9to5mac.com/(\S*)/amp/ https://9to5mac.com/$1 307
 ^https?://www.macrumors.com/(\S*)/amp/ https://www.macrumors.com/$1 307
 ^https?://www.macworld.com/(\S*)/amp https://www.macworld.com/$1 307
+^https?://www.acwifi.net/(\S*)/amp https://www.acwifi.net/$1 307
 ^https?://www.theverge.com/platform/amp/(\S*) https://www.theverge.com/$1 307
 ^https?://flipboard.com/(\S*)format=amp https://flipboard.com/$1 307
