@@ -1,0 +1,26 @@
+payload:
+  - DOMAIN,tplogin.cn
+  - DOMAIN,router.asus.com
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,localhost
+  - DOMAIN-SUFFIX,localdomain
+  - DOMAIN-SUFFIX,ip6-localhost
+  - DOMAIN-SUFFIX,ip6-loopback
+  - DOMAIN-SUFFIX,test
+  - DOMAIN-SUFFIX,example
+  - DOMAIN-SUFFIX,invalid
+  - DOMAIN-SUFFIX,home.arpa
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,localhost.sec.qq.com
+  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,hiwifi.com
+  - DOMAIN-SUFFIX,leike.cc
+  - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,my.router
+  - DOMAIN-SUFFIX,p.to
+  - DOMAIN-SUFFIX,peiluyou.com
+  - DOMAIN-SUFFIX,phicomm.me
+  - DOMAIN-SUFFIX,routerlogin.com
+  - DOMAIN-SUFFIX,tendawifi.com
+  - DOMAIN-SUFFIX,zte.home
