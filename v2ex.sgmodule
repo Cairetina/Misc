@@ -1,0 +1,10 @@
+#!name=V2EX 自动跳转
+#!desc=在 V2er 内浏览 V2EX 网页内容
+
+[MITM]
+hostname = %INSERT% www.v2ex.com
+
+[URL Rewrite]
+^https?://www.v2ex.com/t/([0-9]*) v2er://topic?id=$1 307
+^https?://www.v2ex.com/go/(\S*) v2er://node?title=$1 307
+^https?://www.v2ex.com/member/(\S*) v2er://member?username=$1 307
