@@ -5,6 +5,6 @@
 hostname = %INSERT% www.v2ex.com
 
 [URL Rewrite]
-^https?://www.v2ex.com/t/([0-9]*) v2er://topic?id=$1 307
-^https?://www.v2ex.com/go/(\S*) v2er://node?title=$1 307
-^https?://www.v2ex.com/member/(\S*) v2er://member?username=$1 307
+^https?://www.v2ex.com/t/(\S*)(?=.*?\?) v2er://topic?id=$1 307
+^https?://www.v2ex.com/go/(\S*)(?=.*?\?) v2er://node?title=$1 307
+^https?://www.v2ex.com/member/(\S*)(?=.*?\?) v2er://member?username=$1 307
