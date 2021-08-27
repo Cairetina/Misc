@@ -1,5 +1,5 @@
-#!name=Anandtech
-#!desc=Anandtech RSS 显示全文
+#!name=AnandTech 获取全文
+#!desc=在 RSS 阅读器中获取 AnandTech 全文
 
 [URL Rewrite]
 ^https://www.anandtech.com/show/(\w*)?(?=/) https://www.anandtech.com/print/$1 307
