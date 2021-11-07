@@ -4,6 +4,7 @@ time.apple.com
 gateway.icloud.com
 setup.icloud.com
 probe.icloud.com
+appleid.cdn-apple.com
 xp.apple.com
 swallow.apple.com
 captive.apple.com
@@ -12,6 +13,7 @@ api.apps.apple.com
 amp-api.music.apple.com
 publicassets.cdn-apple.com
 itunes.apple.com
+aod.itunes.apple.com
 itsliveradio.apple.com
 mvod.itunes.apple.com
 guzzoni.apple.com
