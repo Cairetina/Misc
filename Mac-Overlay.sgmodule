@@ -23,6 +23,3 @@ DOMAIN-SUFFIX,epicgames.com,DIRECT
 DOMAIN-SUFFIX,unrealengine.com,DIRECT
 DOMAIN-KEYWORD,officecdn-microsoft-com,DIRECT
 DOMAIN-KEYWORD,epicgames-download,DIRECT
-
-[Host]
-atum.hac.lp1.d4c.nintendo.net = 23.218.94.145
