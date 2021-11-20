@@ -1,8 +1,5 @@
 payload:
   - DOMAIN,statici.icloud.com
-  - DOMAIN,probe.icloud.com
-  - DOMAIN,xp.apple.com
-  - DOMAIN,appleid.cdn-apple.com
   - DOMAIN,discussions.apple.com
   - DOMAIN,sb.music.apple.com
   - DOMAIN,uts-api.itunes.apple.com
@@ -16,3 +13,8 @@ payload:
   - DOMAIN,securemetrics.apple.com
   - DOMAIN,securemetrics.apple.com.cn
   - DOMAIN,smp-device-content.apple.com
+  - DOMAIN,cdn.icloud-content.com
+  - DOMAIN,configuration.ls.apple.com
+  - DOMAIN,api.smoot.apple.com
+  - DOMAIN,api2.smoot.apple.com
+  - DOMAIN,gsp12-ssl.ls.apple.com
