@@ -1,73 +1,5 @@
 payload:
   - DOMAIN,init.push.apple.com
-  - DOMAIN,gsa.apple.com
-  - DOMAIN,gsa.apple.com.akadns.net
-  - DOMAIN,gsas.apple.com
-  - DOMAIN,gsas.apple.com.akadns.net
-  - DOMAIN,p1-buy.itunes.apple.com
-  - DOMAIN,p2-buy.itunes.apple.com
-  - DOMAIN,p3-buy.itunes.apple.com
-  - DOMAIN,p6-buy.itunes.apple.com
-  - DOMAIN,p7-buy.itunes.apple.com
-  - DOMAIN,p8-buy.itunes.apple.com
-  - DOMAIN,p9-buy.itunes.apple.com
-  - DOMAIN,p10-buy.itunes.apple.com
-  - DOMAIN,p11-buy.itunes.apple.com
-  - DOMAIN,p12-buy.itunes.apple.com
-  - DOMAIN,p14-buy.itunes.apple.com
-  - DOMAIN,p15-buy.itunes.apple.com
-  - DOMAIN,p16-buy.itunes.apple.com
-  - DOMAIN,p17-buy.itunes.apple.com
-  - DOMAIN,p18-buy.itunes.apple.com
-  - DOMAIN,p19-buy.itunes.apple.com
-  - DOMAIN,p20-buy.itunes.apple.com
-  - DOMAIN,p21-buy.itunes.apple.com
-  - DOMAIN,p22-buy.itunes.apple.com
-  - DOMAIN,p23-buy.itunes.apple.com
-  - DOMAIN,p24-buy.itunes.apple.com
-  - DOMAIN,p25-buy.itunes.apple.com
-  - DOMAIN,p26-buy.itunes.apple.com
-  - DOMAIN,p27-buy.itunes.apple.com
-  - DOMAIN,p28-buy.itunes.apple.com
-  - DOMAIN,p29-buy.itunes.apple.com
-  - DOMAIN,p30-buy.itunes.apple.com
-  - DOMAIN,p31-buy.itunes.apple.com
-  - DOMAIN,p32-buy.itunes.apple.com
-  - DOMAIN,p33-buy.itunes.apple.com
-  - DOMAIN,p34-buy.itunes.apple.com
-  - DOMAIN,p35-buy.itunes.apple.com
-  - DOMAIN,p36-buy.itunes.apple.com
-  - DOMAIN,p37-buy.itunes.apple.com
-  - DOMAIN,p38-buy.itunes.apple.com
-  - DOMAIN,p39-buy.itunes.apple.com
-  - DOMAIN,p40-buy.itunes.apple.com
-  - DOMAIN,p41-buy.itunes.apple.com
-  - DOMAIN,p42-buy.itunes.apple.com
-  - DOMAIN,p43-buy.itunes.apple.com
-  - DOMAIN,p44-buy.itunes.apple.com
-  - DOMAIN,p45-buy.itunes.apple.com
-  - DOMAIN,p46-buy.itunes.apple.com
-  - DOMAIN,p47-buy.itunes.apple.com
-  - DOMAIN,p48-buy.itunes.apple.com
-  - DOMAIN,p49-buy.itunes.apple.com
-  - DOMAIN,p50-buy.itunes.apple.com
-  - DOMAIN,p51-buy.itunes.apple.com
-  - DOMAIN,p52-buy.itunes.apple.com
-  - DOMAIN,p53-buy.itunes.apple.com
-  - DOMAIN,p54-buy.itunes.apple.com
-  - DOMAIN,p55-buy.itunes.apple.com
-  - DOMAIN,p56-buy.itunes.apple.com
-  - DOMAIN,p57-buy.itunes.apple.com
-  - DOMAIN,p58-buy.itunes.apple.com
-  - DOMAIN,p59-buy.itunes.apple.com
-  - DOMAIN,p60-buy.itunes.apple.com
-  - DOMAIN,p61-buy.itunes.apple.com
-  - DOMAIN,p70-buy.itunes.apple.com
-  - DOMAIN,p71-buy.itunes.apple.com
-  - DOMAIN,p72-buy.itunes.apple.com
-  - DOMAIN,p73-buy.itunes.apple.com
-  - DOMAIN,buy.itunes.apple.com
-  - DOMAIN,buy.itunes-apple.com.akadns.net
   - DOMAIN,ld-1.itunes.apple.com
   - DOMAIN,ld-2.itunes.apple.com
   - DOMAIN,ld-3.itunes.apple.com
@@ -79,24 +11,40 @@ payload:
   - DOMAIN,appleid.apple.com
   - DOMAIN,idmsa.apple.com
   - DOMAIN,supportmetrics.apple.com
+  - DOMAIN,idiagnostics.apple.com
   - DOMAIN,pba.apple.com
-  - DOMAIN,weather-analytics-events.apple.com
-  - DOMAIN,weather-edge.apple.com
-  - DOMAIN,books-edge.apple.com
-  - DOMAIN,books-analytics-events.apple.com
   - DOMAIN,iphonesubmissions.apple.com
   - DOMAIN,kt-prod.apple.com
   - DOMAIN,humb.apple.com
+  - DOMAIN,developer.apple.com
+  - DOMAIN,developerservices1.apple.com
+  - DOMAIN,developerservices2.apple.com
+  - DOMAIN,developerservices3.apple.com
+  - DOMAIN,genius.itunes.apple.com
+  - DOMAIN,genius-download.itunes.apple.com
+  - DOMAIN,genius-upload.itunes.apple.com
   - DOMAIN,genius-2.itunes.apple.com
   - DOMAIN,genius-upload-2.itunes.apple.com
+  - DOMAIN,genius-download-2.itunes.apple.com
+  - DOMAIN,genius-3.itunes.apple.com
+  - DOMAIN,genius-upload-3.itunes.apple.com
+  - DOMAIN,genius-download-3.itunes.apple.com
   - DOMAIN,aidc.apple.com
   - DOMAIN,tbsc.apple.com
   - DOMAIN,gdmf.apple.com
   - DOMAIN,sandbox.itunes.apple.com
   - DOMAIN,pr-pod3-smp-device.apple.com
   - DOMAIN,sse-ws-p189.apple.com
+  - DOMAIN,testflight.apple.com
+  - DOMAIN-SUFFIX,mail.me.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,events.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,ls.apple.com
   - DOMAIN-SUFFIX,ess.apple.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-KEYWORD,buy.itunes
+  - DOMAIN-KEYWORD,gsa.apple
+  - DOMAIN-KEYWORD,gsas.apple
+  - DOMAIN-KEYWORD,analytics-events.apple
+  - DOMAIN-KEYWORD,edge.apple
