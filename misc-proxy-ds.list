@@ -6,13 +6,12 @@ wotrus.ocsp.sectigo.com
 ocsp.comodoca.com
 ocsp.usertrust.com
 ocsp.sectigo.com
-ocsp.godaddy.com
-ocsp.digicert.com
 r3.o.lencr.org
 data.flurry.com
 mozilla.cloudflare-dns.com
 clubhouse.pubnubapi.com
 sentry.ainopara.com
+.digicert.com
 .wp.com
 .mrmacintosh.com
 .9to5mac.com
