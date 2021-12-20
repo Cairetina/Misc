@@ -30,6 +30,7 @@ gsp-ssl.ls.apple.com
 gspe-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com
 gsp10-ssl-cn.ls.apple.com
+gsp12-ssl.ls.apple.com
 gspe12-ssl.ls.apple.com
 gspe12-cn-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com
@@ -50,6 +51,7 @@ apptrailers-ssl.itunes.apple.com
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
 tj-pod1-smp-device.apple.com
+smp-device-content.apple.com
 p32-keyvalueservice.icloud.com.cn
 upos-hz-mirrorakam.akamaized.net
 atum.hac.lp1.d4c.nintendo.net
