@@ -36,9 +36,9 @@ if (typeof($response) !== 'undefined') {
 		if (change) {
 			$done(res);
 		} else {
-			$done({});
+			$done(res);
 		}
 	} else {
-		$done({});
+		$done(res);
 	}
 }
