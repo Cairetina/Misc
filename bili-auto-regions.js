@@ -1,9 +1,9 @@
 const raw = JSON.parse($response.body);
 const data = raw.data || raw.result || {};
 
-const Group = $persistentStore.read('BiliArea_Policy') || 'BiliRegion';
-const CN = $persistentStore.read('BiliArea_CN') || 'DIRECT';
-const HK = $persistentStore.read('BiliArea_HK') || 'ProxySnell';
+const Group = 'BiliRegion';
+const CN = 'DIRECT';
+const HK = 'ProxySnell';
 const current = $surge.selectGroupDetails().decisions[Group];
 
 const area = (() => {
