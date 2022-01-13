@@ -24,7 +24,7 @@ if (typeof($response) !== 'undefined') {
 } else {
 	const raw = $request.url;
 	const res = {
-		url: raw.replace(/%20(%E6%B8%AF|%E4%B8%AD)&/g, '&')
+		url: raw.replace(/%20%E6%B8%AF&/g, '&')
 	};
 	const area = (() => {
 		if (/%20%E6%B8%AF&/.test(raw)) {
