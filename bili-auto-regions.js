@@ -6,7 +6,7 @@ const current = $surge.selectGroupDetails().decisions[Group];
 if (typeof($response) !== 'undefined') {
 	const raw = JSON.parse($response.body);
 	const data = raw.data || raw.result || {};
-	const area = /\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.title) ? (current != HK ? HK : null) : (current != CN ? CN : null);
+	const area = (/\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.title) || /\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.season_title)) ? (current != HK ? HK : null) : (current != CN ? CN : null);
 	(area && $surge.setSelectGroupPolicy(Group, area)) ? $done() : $done({});
 } else {
 	const raw = $request.url;
