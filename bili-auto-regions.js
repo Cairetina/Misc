@@ -32,13 +32,7 @@ if (typeof($response) !== 'undefined') {
 		} else if (current != CN) return CN;
 	})()
 	if (area) {
-		const change = $surge.setSelectGroupPolicy(Group, area);
-		if (change) {
-			$done(res);
-		} else {
-			$done(res);
-		}
-	} else {
-		$done(res);
+		$surge.setSelectGroupPolicy(Group, area);
 	}
+	$done(res);
 }
