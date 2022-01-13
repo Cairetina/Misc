@@ -10,8 +10,7 @@ if (typeof($response) !== 'undefined') {
 		if ((/\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.title)) && (current != HK)) return HK;
 		else if (current != CN) return CN;
 	})()
-	if (area) ($surge.setSelectGroupPolicy(Group, area)) ? $done() : $done({});
-	else $done({});
+	(($surge.setSelectGroupPolicy(Group, area)) && area) ? $done() : $done({});
 } else {
 	const raw = $request.url;
 	const res = {
