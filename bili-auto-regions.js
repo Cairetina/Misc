@@ -19,5 +19,5 @@ if (typeof($response) !== 'undefined') {
 		else if (current != CN) return CN;
 	})()
 	if (area) $surge.setSelectGroupPolicy(Group, area);
-	$done();
+	$done(res);
 }
