@@ -31,8 +31,6 @@ if (typeof($response) !== 'undefined') {
 			if (current != HK) return HK;
 		} else if (current != CN) return CN;
 	})()
-	if (area) {
-		$surge.setSelectGroupPolicy(Group, area);
-	}
+	if (area) $surge.setSelectGroupPolicy(Group, area);
 	$done(res);
 }
