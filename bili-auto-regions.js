@@ -13,10 +13,7 @@ if (typeof($response) !== 'undefined') {
 	(area && $surge.setSelectGroupPolicy(Group, area)) ? $done() : $done({});
 } else {
 	const raw = $request.url;
-	const area = (() => {
-		if ((/%20%E6%B8%AF&/.test(raw)) && (current != HK)) return HK;
-		else if (current != CN) return CN;
-	})()
+	const area = (() => { /%20%E6%B8%AF&/.test(raw) ? if (current != HK) return HK : if (current != CN) return CN; })()
 	if (area) $surge.setSelectGroupPolicy(Group, area);
 	$done({ url: raw.replace(/%20(%E6%B8%AF|%E4%B8%AD)&/g, '&') });
 }
