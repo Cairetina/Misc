@@ -7,7 +7,7 @@ if (typeof($response) !== 'undefined') {
 	const raw = JSON.parse($response.body);
 	const data = raw.data || raw.result || {};
 	const area = (() => {
-		if (/\u50c5[\u4e00-\u9fa5]+\u6e2f/.test(data.title)) {
+		if (/\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.title)) {
 			if (current != HK) return HK;
 		} else if (current != CN) return CN;
 	})()
