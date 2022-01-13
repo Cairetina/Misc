@@ -18,5 +18,5 @@ if (typeof($response) !== 'undefined') {
 		else if (current != CN) return CN;
 	})()
 	if (area) $surge.setSelectGroupPolicy(Group, area);
-	$done({ raw.replace(/%20(%E6%B8%AF|%E4%B8%AD)&/g, '&') });
+	$done({ url: raw.replace(/%20(%E6%B8%AF|%E4%B8%AD)&/g, '&') });
 }
