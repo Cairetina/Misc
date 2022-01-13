@@ -7,9 +7,8 @@ if (typeof($response) !== 'undefined') {
 	const raw = JSON.parse($response.body);
 	const data = raw.data || raw.result || {};
 	const area = (() => {
-		if (/\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.title)) {
-			if (current != HK) return HK;
-		} else if (current != CN) return CN;
+		if ((/\u50c5[\u4e00-\u9fa5]*\u6e2f/.test(data.title)) && (current != HK)) return HK;
+		else if (current != CN) return CN;
 	})()
 	if (area) {
 		const change = $surge.setSelectGroupPolicy(Group, area);
@@ -27,9 +26,8 @@ if (typeof($response) !== 'undefined') {
 		url: raw.replace(/%20(%E6%B8%AF|%E4%B8%AD)&/g, '&')
 	};
 	const area = (() => {
-		if (/%20%E6%B8%AF&/.test(raw)) {
-			if (current != HK) return HK;
-		} else if (current != CN) return CN;
+		if ((/%20%E6%B8%AF&/.test(raw)) && (current != HK)) return HK;
+		else if (current != CN) return CN;
 	})()
 	if (area) $surge.setSelectGroupPolicy(Group, area);
 	$done(res);
