@@ -1,6 +1,6 @@
 const Group = 'BiliRegion';
 const CN = 'DIRECT';
-const HK = 'ProxySnell';
+const HK = 'Snell';
 const current = $surge.selectGroupDetails().decisions[Group];
 
 if (typeof($response) !== 'undefined') {
