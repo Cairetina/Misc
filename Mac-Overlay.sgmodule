@@ -9,9 +9,7 @@ socks5-listen = 0.0.0.0
 PROCESS-NAME,aria2c,DIRECT
 DOMAIN,store.steampowered.com,通用代理
 DOMAIN,api.steampowered.com,通用代理
-PROCESS-NAME,steam,DIRECT
-PROCESS-NAME,steam_osx,DIRECT
-PROCESS-NAME,'steam helper',DIRECT
+PROCESS-NAME,steam*,DIRECT
 DOMAIN,www.bilibili.com,哔哩哔哩
 DOMAIN,softwareupdate.vmware.com,DIRECT
 DOMAIN,officeclient.microsoft.com,通用代理
