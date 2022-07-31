@@ -7,12 +7,17 @@ socks5-listen = 0.0.0.0
 
 [Rule]
 PROCESS-NAME,aria2c,DIRECT
+DOMAIN,store.steampowered.com,通用代理
+DOMAIN,api.steampowered.com,通用代理
+PROCESS-NAME,steam,DIRECT
+PROCESS-NAME,steam_osx,DIRECT
+PROCESS-NAME,steam helper,DIRECT
 DOMAIN,www.bilibili.com,哔哩哔哩
 DOMAIN,softwareupdate.vmware.com,DIRECT
-DOMAIN,officeclient.microsoft.com,标准容灾
-DOMAIN,self.events.data.microsoft.com,标准容灾
-DOMAIN-SUFFIX,officeapps.live.com,标准容灾
-DOMAIN-SUFFIX,azurewebsites.net,标准容灾
+DOMAIN,officeclient.microsoft.com,通用代理
+DOMAIN,self.events.data.microsoft.com,通用代理
+DOMAIN-SUFFIX,officeapps.live.com,通用代理
+DOMAIN-SUFFIX,azurewebsites.net,通用代理
 DOMAIN-SUFFIX,office.com,DIRECT
 DOMAIN-SUFFIX,serifservices.com,DIRECT
 DOMAIN-SUFFIX,serif.com,DIRECT
