@@ -1,6 +1,5 @@
 ioshost.qtlcdn.com
 upos-hz-mirrorakam.akamaized.net
-atum.hac.lp1.d4c.nintendo.net
 safebrowsing.googleapis.com
 clientservices.googleapis.com
 safebrowsing.googleapis-cn.com
@@ -10,6 +9,7 @@ update.googleapis.com
 translate.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
+.lp1.d4c.nintendo.net
 .entrust.net
 .digicert.cn
 .godaddy.com
